@@ -22,9 +22,7 @@ alfy.output(
   Array.from(items).map(name => ({
     title: `${(lib[name] || {}).char} :${name}:`,
     subtitle: lib[name].keywords.join(', '),
-    emoji: lib[name].char,
-    arg: lib[name].char,
-    name: name,
+    arg: name,
     icon: { path: './5502E777-B578-4938-B155-D11E48EA3589.png' }
   }))
 )
