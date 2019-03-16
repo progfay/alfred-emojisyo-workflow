@@ -12,7 +12,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>076E682A-7335-4059-9A9D-1604FBE6D923</string>
+				<string>D5B1F4F0-FC78-4D76-8B37-ABB1CACE8ACE</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -25,7 +25,7 @@
 	<key>createdby</key>
 	<string>progfay</string>
 	<key>description</key>
-	<string></string>
+	<string>📕Dictionary of emoji</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
@@ -45,7 +45,7 @@
 			<key>type</key>
 			<string>alfred.workflow.output.clipboard</string>
 			<key>uid</key>
-			<string>076E682A-7335-4059-9A9D-1604FBE6D923</string>
+			<string>D5B1F4F0-FC78-4D76-8B37-ABB1CACE8ACE</string>
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
@@ -101,13 +101,6 @@
 	<string></string>
 	<key>uidata</key>
 	<dict>
-		<key>076E682A-7335-4059-9A9D-1604FBE6D923</key>
-		<dict>
-			<key>xpos</key>
-			<integer>410</integer>
-			<key>ypos</key>
-			<integer>250</integer>
-		</dict>
 		<key>5502E777-B578-4938-B155-D11E48EA3589</key>
 		<dict>
 			<key>xpos</key>
@@ -115,8 +108,15 @@
 			<key>ypos</key>
 			<integer>250</integer>
 		</dict>
+		<key>D5B1F4F0-FC78-4D76-8B37-ABB1CACE8ACE</key>
+		<dict>
+			<key>xpos</key>
+			<integer>530</integer>
+			<key>ypos</key>
+			<integer>250</integer>
+		</dict>
 	</dict>
 	<key>webaddress</key>
-	<string></string>
+	<string>https://github.com/progfay/alfred-emojisyo-workflow</string>
 </dict>
 </plist>
